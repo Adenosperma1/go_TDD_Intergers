@@ -1,4 +1,4 @@
-module example.com/intergers
+module github.com/Adenosperma1/go_TDD_Intergers
 
 go 1.21.6
 
